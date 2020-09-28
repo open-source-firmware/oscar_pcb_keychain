@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "oscar_pcb_svg2shenzen")(type KiCad)(uri "$(KIPRJMOD)/oscar_pcb_svg2shenzen.pretty")(options "")(descr ""))
+)
